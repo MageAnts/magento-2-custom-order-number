@@ -2,10 +2,10 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Custom Order Number Extension</h2>
+				<h1>Magento 2 Custom Order Number Extension</h1>
 				<p>With the <strong><a href="https://www.mageants.com/custom-order-number-extension-for-magento-2.html">Magento 2 Custom Order Number Extension</a></strong>  the store owner gets the best solution to protect their website data from competitors. It also allows changing the credit memo numbers by using prefixes along with custom starting numbers.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Custom Numbers can be set for order-related documentation.</li>
 						<li>A numbering system can be set to satisfy the legal requirements of the local jurisdiction.</li>
